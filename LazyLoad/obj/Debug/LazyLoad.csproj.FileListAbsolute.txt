@@ -1,0 +1,13 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LazyLoad\bin\LazyLoad.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LazyLoad\bin\LazyLoad.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LazyLoad\obj\Debug\LazyLoad.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LazyLoad\obj\Debug\LazyLoad.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LazyLoad\bin\LazyLoad.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LazyLoad\bin\LazyLoad.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LazyLoad\obj\Debug\LazyLoad.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LazyLoad\obj\Debug\LazyLoad.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LazyLoad\bin\LazyLoad.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LazyLoad\bin\LazyLoad.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LazyLoad\bin\LazyLoad.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LazyLoad\obj\Debug\LazyLoad.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LazyLoad\obj\Debug\LazyLoad.pdb

@@ -1,0 +1,18 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ConcreteTableInheritance\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ConcreteTableInheritance\ConcreteTableInheritance\bin\ConcreteTableInheritance.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ConcreteTableInheritance\ConcreteTableInheritance\bin\ConcreteTableInheritance.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ConcreteTableInheritance\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ConcreteTableInheritance\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ConcreteTableInheritance\bin\ConcreteTableInheritance.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ConcreteTableInheritance\bin\ConcreteTableInheritance.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ConcreteTableInheritance\bin\ConcreteTableInheritance.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ConcreteTableInheritance\bin\ConcreteTableInheritance.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ConcreteTableInheritance\bin\ConcreteTableInheritance.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ConcreteTableInheritance\bin\ConcreteTableInheritance.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ConcreteTableInheritance\bin\ConcreteTableInheritance.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ConcreteTableInheritance\obj\Debug\ConcreteTableInheritance.pdb

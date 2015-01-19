@@ -1,0 +1,22 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\obj\Debug\DataMapper.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\obj\Debug\DataMapper.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\obj\Debug\DataMapper.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\obj\Debug\DataMapper.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\obj\Debug\DataMapper.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\bin\Debug\DataMapper.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\obj\Debug\DataMapper.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DataMapper\obj\Debug\DataMapper.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DataMapper\bin\Debug\DataMapper.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DataMapper\bin\Debug\DataMapper.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DataMapper\bin\Debug\DataMapper.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DataMapper\obj\Debug\DataMapper.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DataMapper\obj\Debug\DataMapper.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DataMapper\obj\Debug\DataMapper.pdb

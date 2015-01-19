@@ -1,0 +1,19 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\Validation\bin\Debug\Validation.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\Validation\bin\Debug\Validation.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\Validation\obj\Debug\Validation.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\Validation\obj\Debug\Validation.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\bin\Debug\Validation.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\bin\Debug\Validation.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\obj\Debug\Validation.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\obj\Debug\Validation.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\bin\Debug\Validation.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\bin\Debug\Validation.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\obj\Debug\Validation.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\Validation\obj\Debug\Validation.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\Validation\bin\Debug\Validation.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\Validation\bin\Debug\Validation.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\Validation\obj\Debug\Validation.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\Validation\obj\Debug\Validation.pdb

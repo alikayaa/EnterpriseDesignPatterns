@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConcreteTableInheritance.Default" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Mapper.AbstractMapper" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAA=</HashCode>
+      <FileName>Mapper\AbstractMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Mapper.CategoryMapper" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAAQAAAAAAAAAAAAIgAQAAAAAAQAAAAA=</HashCode>
+      <FileName>Mapper\CategoryMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Mapper.ComputerMapper" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Mapper\ComputerMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Mapper.ElectronicMapper" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Mapper\ElectronicMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Mapper.Gateway" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapper\Gateway.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Mapper.Mapper" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABmAAAAAAAAABAAAAAJAAAAAAAAAAEAAAAAQAAAAA=</HashCode>
+      <FileName>Mapper\Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Mapper.MoviesMapper" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Mapper\MoviesMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Mapper.PhoneMapper" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Mapper\PhoneMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Models.Category" Collapsed="true">
+    <Position X="3.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Models.Computer" Collapsed="true">
+    <Position X="5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Models.DomainObject" Collapsed="true">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DomainObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Models.Electronic" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Electronic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Models.Movies" Collapsed="true">
+    <Position X="2.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\Movies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteTableInheritance.Models.Phone" Collapsed="true">
+    <Position X="7.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

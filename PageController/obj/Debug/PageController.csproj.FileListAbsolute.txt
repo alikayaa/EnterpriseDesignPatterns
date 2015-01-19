@@ -1,0 +1,5 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\PageController\bin\PageController.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\PageController\bin\PageController.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\PageController\obj\Debug\PageController.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\PageController\obj\Debug\PageController.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\PageController\obj\Debug\PageController.pdb

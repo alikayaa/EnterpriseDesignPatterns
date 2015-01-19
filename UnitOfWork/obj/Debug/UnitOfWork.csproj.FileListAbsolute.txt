@@ -1,0 +1,23 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\UnitOfWork\UnitOfWork\bin\UnitOfWork.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\UnitOfWork\UnitOfWork\bin\UnitOfWork.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\UnitOfWork\UnitOfWork\bin\DAI.Orm.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\UnitOfWork\UnitOfWork\bin\DAI.Orm.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\bin\UnitOfWork.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\bin\UnitOfWork.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\obj\Debug\UnitOfWork.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\obj\Debug\UnitOfWork.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\bin\UnitOfWork.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\bin\UnitOfWork.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\obj\Debug\UnitOfWork.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\UnitOfWork\obj\Debug\UnitOfWork.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\UnitOfWork\bin\UnitOfWork.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\UnitOfWork\bin\UnitOfWork.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\UnitOfWork\bin\UnitOfWork.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\UnitOfWork\obj\Debug\UnitOfWork.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\UnitOfWork\obj\Debug\UnitOfWork.pdb

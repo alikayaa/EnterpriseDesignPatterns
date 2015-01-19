@@ -1,0 +1,13 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IdentityField\bin\IdentityField.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IdentityField\bin\IdentityField.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IdentityField\obj\Debug\IdentityField.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IdentityField\obj\Debug\IdentityField.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IdentityField\bin\IdentityField.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IdentityField\bin\IdentityField.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IdentityField\obj\Debug\IdentityField.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IdentityField\obj\Debug\IdentityField.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IdentityField\bin\IdentityField.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IdentityField\bin\IdentityField.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IdentityField\bin\IdentityField.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IdentityField\obj\Debug\IdentityField.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IdentityField\obj\Debug\IdentityField.pdb

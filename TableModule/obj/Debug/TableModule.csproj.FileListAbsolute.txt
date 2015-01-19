@@ -1,0 +1,18 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TableModule\TableModule\bin\TableModule.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TableModule\TableModule\bin\TableModule.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TableModule\TableModule\obj\Debug\TableModule.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TableModule\TableModule\obj\Debug\TableModule.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TableModule\TableModule\obj\Debug\TableModule.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableModule\bin\TableModule.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableModule\bin\TableModule.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableModule\obj\Debug\TableModule.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableModule\obj\Debug\TableModule.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableModule\bin\TableModule.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableModule\bin\TableModule.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableModule\obj\Debug\TableModule.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableModule\obj\Debug\TableModule.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableModule\bin\TableModule.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableModule\bin\TableModule.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableModule\bin\TableModule.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableModule\obj\Debug\TableModule.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableModule\obj\Debug\TableModule.pdb

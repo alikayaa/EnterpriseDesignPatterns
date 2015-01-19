@@ -1,0 +1,22 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DomainModel\DomainModel\bin\DomainModel.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DomainModel\DomainModel\bin\DomainModel.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DomainModel\DomainModel\bin\DAI.Orm.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DomainModel\DomainModel\bin\DAI.Orm.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DomainModel\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DomainModel\DomainModel\obj\Debug\DomainModel.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\bin\DomainModel.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\bin\DomainModel.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\obj\Debug\DomainModel.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\bin\DomainModel.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\bin\DomainModel.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DomainModel\obj\Debug\DomainModel.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DomainModel\bin\DomainModel.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DomainModel\bin\DomainModel.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DomainModel\bin\DomainModel.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DomainModel\obj\Debug\DomainModel.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DomainModel\obj\Debug\DomainModel.pdb

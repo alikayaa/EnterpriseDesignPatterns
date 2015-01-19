@@ -1,0 +1,16 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\bin\ServiceForCreditNote.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\bin\ServiceForCreditNote.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\bin\ServiceForCreditNote.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\bin\ServiceForCreditNote.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForCreditNote\bin\ServiceForCreditNote.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForCreditNote\bin\ServiceForCreditNote.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForCreditNote\bin\ServiceForCreditNote.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForCreditNote\obj\Debug\ServiceForCreditNote.pdb

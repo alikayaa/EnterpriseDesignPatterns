@@ -1,0 +1,35 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.Form1.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.Properties.Resources.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.csproj.GenerateResource.Cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.Form1.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.Form1.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\bin\Debug\RemoteFacade.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.Form1.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\RemoteFacade\obj\Debug\RemoteFacade.pdb

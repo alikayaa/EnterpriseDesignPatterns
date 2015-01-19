@@ -1,0 +1,21 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\QueryObject\QueryObject\bin\Debug\QueryObject.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\QueryObject\QueryObject\obj\Debug\QueryObject.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\QueryObject\QueryObject\bin\Debug\QueryObject.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\QueryObject\QueryObject\bin\Debug\QueryObject.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\QueryObject\QueryObject\obj\Debug\QueryObject.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\QueryObject\QueryObject\obj\Debug\QueryObject.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\obj\Debug\QueryObject.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\bin\Debug\QueryObject.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\bin\Debug\QueryObject.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\bin\Debug\QueryObject.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\obj\Debug\QueryObject.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\bin\Debug\QueryObject.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\bin\Debug\QueryObject.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\bin\Debug\QueryObject.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\obj\Debug\QueryObject.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\QueryObject\obj\Debug\QueryObject.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\QueryObject\bin\Debug\QueryObject.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\QueryObject\bin\Debug\QueryObject.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\QueryObject\bin\Debug\QueryObject.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\QueryObject\obj\Debug\QueryObject.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\QueryObject\obj\Debug\QueryObject.pdb

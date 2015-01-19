@@ -1,0 +1,18 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ForeignKeyMapping\ForeignKeyMapping\bin\ForeignKeyMapping.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ForeignKeyMapping\ForeignKeyMapping\bin\ForeignKeyMapping.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ForeignKeyMapping\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ForeignKeyMapping\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ForeignKeyMapping\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ForeignKeyMapping\bin\ForeignKeyMapping.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ForeignKeyMapping\bin\ForeignKeyMapping.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ForeignKeyMapping\bin\ForeignKeyMapping.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ForeignKeyMapping\bin\ForeignKeyMapping.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ForeignKeyMapping\bin\ForeignKeyMapping.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ForeignKeyMapping\bin\ForeignKeyMapping.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ForeignKeyMapping\bin\ForeignKeyMapping.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ForeignKeyMapping\obj\Debug\ForeignKeyMapping.pdb

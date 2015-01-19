@@ -1,0 +1,23 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TransactionScript\TransactionScript\bin\TransactionScript.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TransactionScript\TransactionScript\bin\TransactionScript.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TransactionScript\TransactionScript\bin\DAI.Orm.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TransactionScript\TransactionScript\bin\DAI.Orm.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TransactionScript\TransactionScript\obj\Debug\TransactionScript.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TransactionScript\TransactionScript\obj\Debug\TransactionScript.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\TransactionScript\TransactionScript\obj\Debug\TransactionScript.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\bin\TransactionScript.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\bin\TransactionScript.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\obj\Debug\TransactionScript.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\obj\Debug\TransactionScript.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\obj\Debug\TransactionScript.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\bin\TransactionScript.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\bin\TransactionScript.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\obj\Debug\TransactionScript.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\obj\Debug\TransactionScript.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransactionScript\obj\Debug\TransactionScript.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransactionScript\bin\TransactionScript.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransactionScript\bin\TransactionScript.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransactionScript\bin\TransactionScript.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransactionScript\obj\Debug\TransactionScript.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransactionScript\obj\Debug\TransactionScript.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransactionScript\obj\Debug\TransactionScript.pdb

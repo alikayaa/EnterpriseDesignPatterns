@@ -1,0 +1,28 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\ScreenEntity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\ScreenEntity.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\Serialization.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\Serialization.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\ScreenEntity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\ScreenEntity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\Serialization.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\Serialization.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\ScreenEntity.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\ScreenEntity.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\Serialization.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\bin\Debug\Serialization.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenEntity\obj\Debug\ScreenEntity.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenEntity\bin\Debug\ScreenEntity.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenEntity\bin\Debug\ScreenEntity.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenEntity\bin\Debug\Serialization.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenEntity\bin\Debug\Serialization.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenEntity\obj\Debug\ScreenEntity.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenEntity\obj\Debug\ScreenEntity.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenEntity\obj\Debug\ScreenEntity.pdb

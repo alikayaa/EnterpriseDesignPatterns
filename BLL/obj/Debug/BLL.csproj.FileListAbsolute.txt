@@ -1,0 +1,12 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\BLL\bin\Debug\BLL.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\BLL\bin\Debug\BLL.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\BLL\obj\Debug\BLL.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\BLL\obj\Debug\BLL.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\BLL\bin\Debug\BLL.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\BLL\bin\Debug\BLL.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\BLL\obj\Debug\BLL.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\BLL\obj\Debug\BLL.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\BLL\bin\Debug\BLL.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\BLL\bin\Debug\BLL.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\BLL\obj\Debug\BLL.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\BLL\obj\Debug\BLL.pdb

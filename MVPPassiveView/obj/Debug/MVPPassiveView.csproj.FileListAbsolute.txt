@@ -1,0 +1,22 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPPassiveView\MVPPassiveView\bin\Debug\MVPPassiveView.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPPassiveView\MVPPassiveView\bin\Debug\MVPPassiveView.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPPassiveView\MVPPassiveView\obj\Debug\MVPPassiveView.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPPassiveView\MVPPassiveView\obj\Debug\MVPPassiveView.Form1.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPPassiveView\MVPPassiveView\obj\Debug\MVPPassiveView.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPPassiveView\MVPPassiveView\obj\Debug\MVPPassiveView.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPPassiveView\MVPPassiveView\obj\Debug\MVPPassiveView.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPPassiveView\MVPPassiveView\obj\Debug\MVPPassiveView.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPPassiveView\bin\Debug\MVPPassiveView.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPPassiveView\bin\Debug\MVPPassiveView.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPPassiveView\obj\Debug\MVPPassiveView.Form1.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPPassiveView\obj\Debug\MVPPassiveView.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPPassiveView\obj\Debug\MVPPassiveView.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPPassiveView\obj\Debug\MVPPassiveView.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPPassiveView\obj\Debug\MVPPassiveView.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPPassiveView\bin\Debug\MVPPassiveView.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPPassiveView\bin\Debug\MVPPassiveView.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPPassiveView\obj\Debug\MVPPassiveView.Form1.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPPassiveView\obj\Debug\MVPPassiveView.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPPassiveView\obj\Debug\MVPPassiveView.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPPassiveView\obj\Debug\MVPPassiveView.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPPassiveView\obj\Debug\MVPPassiveView.pdb

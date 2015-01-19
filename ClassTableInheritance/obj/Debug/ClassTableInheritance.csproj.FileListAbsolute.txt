@@ -1,0 +1,32 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ClassTableInheritance\ClassTableInheritance\bin\Debug\ClassTableInheritance.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ClassTableInheritance\ClassTableInheritance\bin\Debug\ClassTableInheritance.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ClassTableInheritance\ClassTableInheritance\bin\Debug\ClassTableInheritance.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ClassTableInheritance\ClassTableInheritance\obj\Debug\ClassTableInheritance.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ClassTableInheritance\ClassTableInheritance\obj\Debug\ClassTableInheritance.Properties.Resources.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ClassTableInheritance\ClassTableInheritance\obj\Debug\ClassTableInheritance.csproj.GenerateResource.Cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ClassTableInheritance\ClassTableInheritance\obj\Debug\ClassTableInheritance.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\ClassTableInheritance\ClassTableInheritance\obj\Debug\ClassTableInheritance.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\bin\Debug\ClassTableInheritance.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\bin\Debug\ClassTableInheritance.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\bin\Debug\ClassTableInheritance.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\bin\Debug\ClassTableInheritance.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\bin\Debug\ClassTableInheritance.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\bin\Debug\ClassTableInheritance.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ClassTableInheritance\obj\Debug\ClassTableInheritance.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ClassTableInheritance\bin\Debug\ClassTableInheritance.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ClassTableInheritance\bin\Debug\ClassTableInheritance.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ClassTableInheritance\bin\Debug\ClassTableInheritance.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ClassTableInheritance\obj\Debug\ClassTableInheritance.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ClassTableInheritance\obj\Debug\ClassTableInheritance.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ClassTableInheritance\obj\Debug\ClassTableInheritance.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ClassTableInheritance\obj\Debug\ClassTableInheritance.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ClassTableInheritance\obj\Debug\ClassTableInheritance.pdb

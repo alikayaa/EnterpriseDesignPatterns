@@ -1,0 +1,45 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\TransformView.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\TransformView.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenBuilder.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenEntity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\Serialization.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenBuilder.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenEntity.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\Serialization.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\TransformView.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\TransformView.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenBuilder.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenEntity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\Serialization.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenBuilder.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenEntity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\Serialization.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\TransformView.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\TransformView.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenBuilder.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenEntity.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\Serialization.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenBuilder.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\ScreenEntity.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\bin\Serialization.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TransformView\obj\Debug\TransformView.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\TransformView.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\TransformView.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\TransformView.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\ScreenBuilder.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\ScreenEntity.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\Serialization.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\ScreenBuilder.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\ScreenEntity.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\bin\Serialization.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\obj\Debug\TransformView.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\obj\Debug\TransformView.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TransformView\obj\Debug\TransformView.pdb

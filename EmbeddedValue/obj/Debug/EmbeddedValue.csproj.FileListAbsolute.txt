@@ -1,0 +1,18 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\EmbeddedValue\EmbeddedValue\obj\Debug\EmbeddedValue.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\EmbeddedValue\EmbeddedValue\bin\EmbeddedValue.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\EmbeddedValue\EmbeddedValue\bin\EmbeddedValue.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\EmbeddedValue\EmbeddedValue\obj\Debug\EmbeddedValue.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\EmbeddedValue\EmbeddedValue\obj\Debug\EmbeddedValue.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\EmbeddedValue\bin\EmbeddedValue.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\EmbeddedValue\bin\EmbeddedValue.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\EmbeddedValue\obj\Debug\EmbeddedValue.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\EmbeddedValue\obj\Debug\EmbeddedValue.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\EmbeddedValue\bin\EmbeddedValue.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\EmbeddedValue\bin\EmbeddedValue.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\EmbeddedValue\obj\Debug\EmbeddedValue.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\EmbeddedValue\obj\Debug\EmbeddedValue.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\EmbeddedValue\bin\EmbeddedValue.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\EmbeddedValue\bin\EmbeddedValue.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\EmbeddedValue\bin\EmbeddedValue.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\EmbeddedValue\obj\Debug\EmbeddedValue.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\EmbeddedValue\obj\Debug\EmbeddedValue.pdb

@@ -1,0 +1,16 @@
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVCTest\bin\Debug\MVCTest.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVCTest\bin\Debug\MVCTest.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVCTest\obj\x86\Debug\MVCTest.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVCTest\obj\x86\Debug\MVCTest.Form1.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVCTest\obj\x86\Debug\MVCTest.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVCTest\obj\x86\Debug\MVCTest.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVCTest\obj\x86\Debug\MVCTest.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVCTest\obj\x86\Debug\MVCTest.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVCTest\bin\Debug\MVCTest.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVCTest\bin\Debug\MVCTest.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVCTest\obj\x86\Debug\MVCTest.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVCTest\obj\x86\Debug\MVCTest.Form1.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVCTest\obj\x86\Debug\MVCTest.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVCTest\obj\x86\Debug\MVCTest.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVCTest\obj\x86\Debug\MVCTest.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVCTest\obj\x86\Debug\MVCTest.pdb

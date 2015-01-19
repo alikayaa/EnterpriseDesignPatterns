@@ -1,0 +1,14 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\bin\ServiceForWorkingBank.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\bin\ServiceForWorkingBank.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\obj\Debug\ServiceForWorkingBank.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\obj\Debug\ServiceForWorkingBank.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\obj\Debug\ServiceForWorkingBank.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\bin\ServiceForWorkingBank.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\bin\ServiceForWorkingBank.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\obj\Debug\ServiceForWorkingBank.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ServiceForWorkingBank\obj\Debug\ServiceForWorkingBank.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForWorkingBank\bin\ServiceForWorkingBank.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForWorkingBank\bin\ServiceForWorkingBank.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForWorkingBank\bin\ServiceForWorkingBank.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForWorkingBank\obj\Debug\ServiceForWorkingBank.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ServiceForWorkingBank\obj\Debug\ServiceForWorkingBank.pdb

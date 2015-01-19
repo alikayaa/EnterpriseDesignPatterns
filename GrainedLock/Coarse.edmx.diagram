@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="db82958d2e914374baf6aaf607bdc137" Name="Diagram1">
+        <EntityTypeShape EntityType="CoarseGrainedLockModel.Ders" Width="1.5" PointX="11.333721354293507" PointY="11.95075890978368" />
+        <EntityTypeShape EntityType="CoarseGrainedLockModel.Ogrenci" Width="1.5" PointX="4.2474045717378166" PointY="2.7020574373668329" />
+        <EntityTypeShape EntityType="CoarseGrainedLockModel.Sinif" Width="1.5" PointX="1.3274984105152536" PointY="14.99915169877892" />
+        <EntityTypeShape EntityType="CoarseGrainedLockModel.sysdiagrams" Width="1.5" PointX="3.7900569382077349" PointY="10.76443772519214" />
+        <AssociationConnector Association="CoarseGrainedLockModel.DerslerinSiniflari" />
+        <AssociationConnector Association="CoarseGrainedLockModel.OgrencininAldigiDersler" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

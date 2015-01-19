@@ -1,0 +1,42 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.ApplicationWinUI.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.ApplicationWinUI.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Interfaces.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Starter.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Engine.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Interfaces.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Starter.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Engine.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.Form1.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.ApplicationWinUI.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.ApplicationWinUI.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Interfaces.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Starter.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Engine.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Interfaces.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Starter.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\bin\Debug\Plugin.Engine.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.Form1.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\bin\Debug\Plugin.ApplicationWinUI.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\bin\Debug\Plugin.ApplicationWinUI.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\bin\Debug\Plugin.Interfaces.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\bin\Debug\Plugin.Starter.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\bin\Debug\Plugin.Engine.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\bin\Debug\Plugin.Interfaces.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\bin\Debug\Plugin.Starter.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\bin\Debug\Plugin.Engine.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.Form1.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.ApplicationWinUI\obj\Debug\Plugin.ApplicationWinUI.pdb

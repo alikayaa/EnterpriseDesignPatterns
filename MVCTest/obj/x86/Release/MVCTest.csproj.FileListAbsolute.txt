@@ -1,0 +1,9 @@
+C:\Users\CASPER PC\Downloads\MVCTest_Source\MVCTest\MVCTest\bin\Release\MVCTest.exe
+C:\Users\CASPER PC\Downloads\MVCTest_Source\MVCTest\MVCTest\bin\Release\MVCTest.pdb
+C:\Users\CASPER PC\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\MVCTest.Form1.resources
+C:\Users\CASPER PC\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\MVCTest.Properties.Resources.resources
+C:\Users\CASPER PC\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\MVCTest.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\MVCTest.exe
+C:\Users\CASPER PC\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\MVCTest.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVCTest\MVCTest\obj\x86\Release\MVCTest.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVCTest\MVCTest\obj\x86\Release\MVCTest.pdb

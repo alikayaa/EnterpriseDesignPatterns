@@ -1,0 +1,15 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\bin\Debug\Plugin.Interfaces.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\bin\Debug\Plugin.Interfaces.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\bin\Debug\Plugin.Interfaces.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\bin\Debug\Plugin.Interfaces.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Interfaces\bin\Debug\Plugin.Interfaces.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Interfaces\bin\Debug\Plugin.Interfaces.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.pdb

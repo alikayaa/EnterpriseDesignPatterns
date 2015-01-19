@@ -1,0 +1,29 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\WebApplicationAppController.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\WebApplicationAppController.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\ApplicationController.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\ApplicationController.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\WebApplicationAppController.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\WebApplicationAppController.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\ApplicationController.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\ApplicationController.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\WebApplicationAppController.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\WebApplicationAppController.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\ApplicationController.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\bin\ApplicationController.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\WebApplicationAppController\obj\Debug\WebApplicationAppController.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\WebApplicationAppController\bin\WebApplicationAppController.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\WebApplicationAppController\bin\WebApplicationAppController.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\WebApplicationAppController\bin\WebApplicationAppController.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\WebApplicationAppController\bin\ApplicationController.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\WebApplicationAppController\bin\ApplicationController.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\WebApplicationAppController\obj\Debug\WebApplicationAppController.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\WebApplicationAppController\obj\Debug\WebApplicationAppController.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\WebApplicationAppController\obj\Debug\WebApplicationAppController.pdb

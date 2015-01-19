@@ -1,0 +1,18 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DependentMapping\DependentMapping\obj\Debug\DependentMapping.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DependentMapping\DependentMapping\bin\DependentMapping.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DependentMapping\DependentMapping\bin\DependentMapping.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DependentMapping\DependentMapping\obj\Debug\DependentMapping.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DependentMapping\DependentMapping\obj\Debug\DependentMapping.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependentMapping\bin\DependentMapping.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependentMapping\bin\DependentMapping.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependentMapping\obj\Debug\DependentMapping.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependentMapping\obj\Debug\DependentMapping.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependentMapping\bin\DependentMapping.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependentMapping\bin\DependentMapping.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependentMapping\obj\Debug\DependentMapping.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependentMapping\obj\Debug\DependentMapping.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependentMapping\bin\DependentMapping.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependentMapping\bin\DependentMapping.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependentMapping\bin\DependentMapping.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependentMapping\obj\Debug\DependentMapping.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependentMapping\obj\Debug\DependentMapping.pdb

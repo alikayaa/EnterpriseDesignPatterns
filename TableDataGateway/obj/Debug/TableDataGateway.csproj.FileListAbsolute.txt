@@ -1,0 +1,22 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\obj\Debug\TableDataGateway.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\obj\Debug\TableDataGateway.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\obj\Debug\TableDataGateway.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\obj\Debug\TableDataGateway.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\bin\Debug\TableDataGateway.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\obj\Debug\TableDataGateway.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\obj\Debug\TableDataGateway.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\TableDataGateway\obj\Debug\TableDataGateway.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableDataGateway\bin\Debug\TableDataGateway.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableDataGateway\bin\Debug\TableDataGateway.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableDataGateway\bin\Debug\TableDataGateway.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableDataGateway\obj\Debug\TableDataGateway.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableDataGateway\obj\Debug\TableDataGateway.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\TableDataGateway\obj\Debug\TableDataGateway.pdb

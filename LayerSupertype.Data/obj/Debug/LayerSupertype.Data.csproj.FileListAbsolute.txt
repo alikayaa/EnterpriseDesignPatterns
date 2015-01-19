@@ -1,0 +1,12 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LayerSupertype.Data\bin\Debug\LayerSupertype.Data.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LayerSupertype.Data\bin\Debug\LayerSupertype.Data.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LayerSupertype.Data\obj\Debug\LayerSupertype.Data.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LayerSupertype.Data\obj\Debug\LayerSupertype.Data.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LayerSupertype.Data\bin\Debug\LayerSupertype.Data.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LayerSupertype.Data\bin\Debug\LayerSupertype.Data.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LayerSupertype.Data\obj\Debug\LayerSupertype.Data.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\LayerSupertype.Data\obj\Debug\LayerSupertype.Data.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LayerSupertype.Data\bin\Debug\LayerSupertype.Data.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LayerSupertype.Data\bin\Debug\LayerSupertype.Data.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LayerSupertype.Data\obj\Debug\LayerSupertype.Data.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\LayerSupertype.Data\obj\Debug\LayerSupertype.Data.pdb

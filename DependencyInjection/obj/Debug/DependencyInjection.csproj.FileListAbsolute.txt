@@ -1,0 +1,13 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DependencyInjection\obj\Debug\DependencyInjection.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependencyInjection\bin\Debug\DependencyInjection.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependencyInjection\bin\Debug\DependencyInjection.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependencyInjection\obj\Debug\DependencyInjection.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DependencyInjection\obj\Debug\DependencyInjection.pdb

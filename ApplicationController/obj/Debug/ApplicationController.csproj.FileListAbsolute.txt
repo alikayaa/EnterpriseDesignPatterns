@@ -1,0 +1,18 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\obj\Debug\ApplicationController.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\bin\Debug\ApplicationController.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\bin\Debug\ApplicationController.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\obj\Debug\ApplicationController.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\obj\Debug\ApplicationController.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\bin\Debug\ApplicationController.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\bin\Debug\ApplicationController.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\obj\Debug\ApplicationController.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\obj\Debug\ApplicationController.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\bin\Debug\ApplicationController.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\bin\Debug\ApplicationController.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\obj\Debug\ApplicationController.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ApplicationController\obj\Debug\ApplicationController.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ApplicationController\bin\Debug\ApplicationController.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ApplicationController\bin\Debug\ApplicationController.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ApplicationController\obj\Debug\ApplicationController.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ApplicationController\obj\Debug\ApplicationController.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ApplicationController\obj\Debug\ApplicationController.pdb

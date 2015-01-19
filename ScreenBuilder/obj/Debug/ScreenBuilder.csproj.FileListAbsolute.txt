@@ -1,0 +1,36 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenBuilder.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenBuilder.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenEntity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\Serialization.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenEntity.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\Serialization.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenBuilder.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenBuilder.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenEntity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\Serialization.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenEntity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\Serialization.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenBuilder.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenBuilder.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenEntity.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\Serialization.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\ScreenEntity.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\bin\Debug\Serialization.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ScreenBuilder\obj\Debug\ScreenBuilder.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\bin\Debug\ScreenBuilder.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\bin\Debug\ScreenBuilder.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\bin\Debug\ScreenEntity.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\bin\Debug\Serialization.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\bin\Debug\ScreenEntity.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\bin\Debug\Serialization.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\obj\Debug\ScreenBuilder.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\obj\Debug\ScreenBuilder.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ScreenBuilder\obj\Debug\ScreenBuilder.pdb

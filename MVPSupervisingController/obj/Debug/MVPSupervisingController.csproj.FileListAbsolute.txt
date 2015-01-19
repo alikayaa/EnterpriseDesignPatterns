@@ -1,0 +1,24 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPSupervisingController\MVPSupervisingController\bin\Debug\MVPSupervisingController.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPSupervisingController\MVPSupervisingController\bin\Debug\MVPSupervisingController.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPSupervisingController\MVPSupervisingController\obj\Debug\MVPSupervisingController.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPSupervisingController\MVPSupervisingController\obj\Debug\MVPSupervisingController.Form1.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPSupervisingController\MVPSupervisingController\obj\Debug\MVPSupervisingController.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPSupervisingController\MVPSupervisingController\obj\Debug\MVPSupervisingController.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPSupervisingController\MVPSupervisingController\obj\Debug\MVPSupervisingController.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\MVPSupervisingController\MVPSupervisingController\obj\Debug\MVPSupervisingController.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPSupervisingController\bin\Debug\MVPSupervisingController.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPSupervisingController\bin\Debug\MVPSupervisingController.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPSupervisingController\obj\Debug\MVPSupervisingController.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPSupervisingController\obj\Debug\MVPSupervisingController.Form1.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPSupervisingController\obj\Debug\MVPSupervisingController.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPSupervisingController\obj\Debug\MVPSupervisingController.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPSupervisingController\obj\Debug\MVPSupervisingController.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVPSupervisingController\obj\Debug\MVPSupervisingController.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPSupervisingController\bin\Debug\MVPSupervisingController.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPSupervisingController\bin\Debug\MVPSupervisingController.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPSupervisingController\obj\Debug\MVPSupervisingController.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPSupervisingController\obj\Debug\MVPSupervisingController.Form1.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPSupervisingController\obj\Debug\MVPSupervisingController.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPSupervisingController\obj\Debug\MVPSupervisingController.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPSupervisingController\obj\Debug\MVPSupervisingController.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVPSupervisingController\obj\Debug\MVPSupervisingController.pdb

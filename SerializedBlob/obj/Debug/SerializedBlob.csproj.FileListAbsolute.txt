@@ -1,0 +1,32 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\SerializedBlob\SerializedBlob\bin\Debug\SerializedBlob.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\SerializedBlob\SerializedBlob\obj\Debug\SerializedBlob.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\SerializedBlob\SerializedBlob\obj\Debug\SerializedBlob.Properties.Resources.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\SerializedBlob\SerializedBlob\obj\Debug\SerializedBlob.csproj.GenerateResource.Cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\SerializedBlob\SerializedBlob\bin\Debug\SerializedBlob.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\SerializedBlob\SerializedBlob\bin\Debug\SerializedBlob.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\SerializedBlob\SerializedBlob\obj\Debug\SerializedBlob.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\SerializedBlob\SerializedBlob\obj\Debug\SerializedBlob.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\bin\Debug\SerializedBlob.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\bin\Debug\SerializedBlob.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\bin\Debug\SerializedBlob.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\bin\Debug\SerializedBlob.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\bin\Debug\SerializedBlob.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\bin\Debug\SerializedBlob.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SerializedBlob\obj\Debug\SerializedBlob.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SerializedBlob\bin\Debug\SerializedBlob.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SerializedBlob\bin\Debug\SerializedBlob.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SerializedBlob\bin\Debug\SerializedBlob.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SerializedBlob\obj\Debug\SerializedBlob.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SerializedBlob\obj\Debug\SerializedBlob.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SerializedBlob\obj\Debug\SerializedBlob.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SerializedBlob\obj\Debug\SerializedBlob.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SerializedBlob\obj\Debug\SerializedBlob.pdb

@@ -1,0 +1,20 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\WcfService1\bin\WcfService1.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\WcfService1\bin\WcfService1.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\RemoteFacade\WcfService1\obj\Debug\WcfService1.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\bin\WcfService1.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\bin\WcfService1.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\obj\Debug\WcfService1.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\bin\WcfService1.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\bin\WcfService1.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RemoteFacade\WcfService1\obj\Debug\WcfService1.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\WcfService1\bin\WcfService1.dll.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\WcfService1\bin\WcfService1.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\WcfService1\bin\WcfService1.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\WcfService1\obj\Debug\WcfService1.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RemoteFacade\WcfService1\obj\Debug\WcfService1.pdb

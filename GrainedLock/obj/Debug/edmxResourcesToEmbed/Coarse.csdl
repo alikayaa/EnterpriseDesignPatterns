@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CoarseGrainedLockModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="CoarseGrainedLockEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ders" EntityType="CoarseGrainedLockModel.Ders" />
+    <EntitySet Name="Ogrenci" EntityType="CoarseGrainedLockModel.Ogrenci" />
+    <EntitySet Name="Sinif" EntityType="CoarseGrainedLockModel.Sinif" />
+    <EntitySet Name="sysdiagrams" EntityType="CoarseGrainedLockModel.sysdiagrams" />
+    <AssociationSet Name="DerslerinSiniflari" Association="CoarseGrainedLockModel.DerslerinSiniflari">
+      <End Role="Ders" EntitySet="Ders" />
+      <End Role="Sinif" EntitySet="Sinif" />
+    </AssociationSet>
+    <AssociationSet Name="OgrencininAldigiDersler" Association="CoarseGrainedLockModel.OgrencininAldigiDersler">
+      <End Role="Ders" EntitySet="Ders" />
+      <End Role="Ogrenci" EntitySet="Ogrenci" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Ders">
+    <Key>
+      <PropertyRef Name="DersId" />
+    </Key>
+    <Property Type="Int32" Name="DersId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="DersAdi" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Sinif" Relationship="CoarseGrainedLockModel.DerslerinSiniflari" FromRole="Ders" ToRole="Sinif" />
+    <NavigationProperty Name="Ogrenci" Relationship="CoarseGrainedLockModel.OgrencininAldigiDersler" FromRole="Ders" ToRole="Ogrenci" />
+  </EntityType>
+  <EntityType Name="Ogrenci">
+    <Key>
+      <PropertyRef Name="OgrenciId" />
+    </Key>
+    <Property Type="Int32" Name="OgrenciId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="OgrenciAdi" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Ders" Relationship="CoarseGrainedLockModel.OgrencininAldigiDersler" FromRole="Ogrenci" ToRole="Ders" />
+  </EntityType>
+  <EntityType Name="Sinif">
+    <Key>
+      <PropertyRef Name="SinifId" />
+    </Key>
+    <Property Type="Int32" Name="SinifId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="SinifAdi" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Ders" Relationship="CoarseGrainedLockModel.DerslerinSiniflari" FromRole="Sinif" ToRole="Ders" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Type="String" Name="name" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="principal_id" Nullable="false" />
+    <Property Type="Int32" Name="diagram_id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="version" />
+    <Property Type="Binary" Name="definition" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="DerslerinSiniflari">
+    <End Type="CoarseGrainedLockModel.Ders" Role="Ders" Multiplicity="*" />
+    <End Type="CoarseGrainedLockModel.Sinif" Role="Sinif" Multiplicity="*" />
+  </Association>
+  <Association Name="OgrencininAldigiDersler">
+    <End Type="CoarseGrainedLockModel.Ders" Role="Ders" Multiplicity="*" />
+    <End Type="CoarseGrainedLockModel.Ogrenci" Role="Ogrenci" Multiplicity="*" />
+  </Association>
+</Schema>

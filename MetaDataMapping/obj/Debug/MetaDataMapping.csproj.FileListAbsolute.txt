@@ -1,0 +1,21 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\MetadataMapping\MetaDataMapping\bin\Debug\MetaDataMapping.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\MetadataMapping\MetaDataMapping\bin\Debug\MetaDataMapping.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\MetadataMapping\MetaDataMapping\bin\Debug\MetaDataMapping.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\MetadataMapping\MetaDataMapping\obj\Debug\MetaDataMapping.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\MetadataMapping\MetaDataMapping\obj\Debug\MetaDataMapping.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\MetadataMapping\MetaDataMapping\obj\Debug\MetaDataMapping.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\bin\Debug\MetaDataMapping.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\bin\Debug\MetaDataMapping.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\bin\Debug\MetaDataMapping.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\obj\Debug\MetaDataMapping.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\obj\Debug\MetaDataMapping.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\bin\Debug\MetaDataMapping.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\bin\Debug\MetaDataMapping.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\bin\Debug\MetaDataMapping.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\obj\Debug\MetaDataMapping.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MetaDataMapping\obj\Debug\MetaDataMapping.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MetaDataMapping\bin\Debug\MetaDataMapping.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MetaDataMapping\bin\Debug\MetaDataMapping.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MetaDataMapping\bin\Debug\MetaDataMapping.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MetaDataMapping\obj\Debug\MetaDataMapping.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MetaDataMapping\obj\Debug\MetaDataMapping.pdb

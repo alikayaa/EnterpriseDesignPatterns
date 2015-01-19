@@ -1,0 +1,25 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\EnterprisePatterns\RowDataGateway\bin\Debug\RowDataGateway.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\EnterprisePatterns\RowDataGateway\bin\Debug\RowDataGateway.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\EnterprisePatterns\RowDataGateway\bin\Debug\RowDataGateway.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\EnterprisePatterns\RowDataGateway\obj\Debug\RowDataGateway.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\EnterprisePatterns\RowDataGateway\obj\Debug\RowDataGateway.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\obj\Debug\RowDataGateway.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\obj\Debug\RowDataGateway.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\obj\Debug\RowDataGateway.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\obj\Debug\RowDataGateway.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\bin\Debug\RowDataGateway.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\obj\Debug\RowDataGateway.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\RowDataGateway\obj\Debug\RowDataGateway.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RowDataGateway\bin\Debug\RowDataGateway.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RowDataGateway\bin\Debug\RowDataGateway.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RowDataGateway\bin\Debug\RowDataGateway.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RowDataGateway\obj\Debug\RowDataGateway.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\RowDataGateway\obj\Debug\RowDataGateway.pdb

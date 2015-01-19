@@ -1,0 +1,10 @@
+﻿<DaiForm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Controls>
+    <DaiControlBase xsi:type="DaiTextBox">
+      <Name>Control1</Name>
+    </DaiControlBase>
+    <DaiControlBase xsi:type="DaiTextBox">
+      <Name>Control2</Name>
+    </DaiControlBase>
+  </Controls>
+</DaiForm>

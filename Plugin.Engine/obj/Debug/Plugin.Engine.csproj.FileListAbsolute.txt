@@ -1,0 +1,21 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\bin\Debug\Plugin.Engine.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\bin\Debug\Plugin.Engine.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\bin\Debug\Plugin.Interfaces.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\bin\Debug\Plugin.Interfaces.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\obj\Debug\Plugin.Engine.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\obj\Debug\Plugin.Engine.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\obj\Debug\Plugin.Engine.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\bin\Debug\Plugin.Engine.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\bin\Debug\Plugin.Engine.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\bin\Debug\Plugin.Interfaces.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\bin\Debug\Plugin.Interfaces.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\obj\Debug\Plugin.Engine.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\obj\Debug\Plugin.Engine.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.Engine\obj\Debug\Plugin.Engine.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Engine\bin\Debug\Plugin.Engine.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Engine\bin\Debug\Plugin.Engine.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Engine\bin\Debug\Plugin.Interfaces.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Engine\bin\Debug\Plugin.Interfaces.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Engine\obj\Debug\Plugin.Engine.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Engine\obj\Debug\Plugin.Engine.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.Engine\obj\Debug\Plugin.Engine.pdb

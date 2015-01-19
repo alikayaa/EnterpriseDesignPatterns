@@ -1,0 +1,21 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.GercekSiniflar.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.GercekSiniflar.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.Arayuz.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.Arayuz.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.GercekSiniflar.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.GercekSiniflar.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.Arayuz.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.Arayuz.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.GercekSiniflar.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.GercekSiniflar.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.Arayuz.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SeperatedInterface.GercekSiniflar\bin\Debug\SeperatedInterface.Arayuz.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\SeperatedInterface.GercekSiniflar\obj\Debug\SeperatedInterface.GercekSiniflar.pdb

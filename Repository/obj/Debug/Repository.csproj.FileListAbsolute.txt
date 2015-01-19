@@ -1,0 +1,33 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\bin\Debug\Repository.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\obj\Debug\Repository.Form1.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\obj\Debug\Repository.Properties.Resources.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\bin\Debug\Repository.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\bin\Debug\Repository.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\obj\Debug\Repository.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\Repository\Repository\obj\Debug\Repository.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\bin\Debug\Repository.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\bin\Debug\Repository.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\bin\Debug\Repository.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.Form1.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\bin\Debug\Repository.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\bin\Debug\Repository.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\bin\Debug\Repository.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.Form1.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Repository\obj\Debug\Repository.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Repository\bin\Debug\Repository.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Repository\bin\Debug\Repository.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Repository\bin\Debug\Repository.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Repository\obj\Debug\Repository.Form1.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Repository\obj\Debug\Repository.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Repository\obj\Debug\Repository.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Repository\obj\Debug\Repository.pdb

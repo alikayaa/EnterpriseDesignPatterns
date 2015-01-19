@@ -1,0 +1,45 @@
+C:\Users\KAYA\Desktop\MVVM\MVVM\bin\Debug\MVVM.exe.config
+C:\Users\KAYA\Desktop\MVVM\MVVM\bin\Debug\MVVM.exe
+C:\Users\KAYA\Desktop\MVVM\MVVM\bin\Debug\MVVM.pdb
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MainWindow.baml
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\Views\ProductView.baml
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\Views\ProductView.g.cs
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\App.g.cs
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MVVM.g.resources
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.Cache
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MVVM.exe
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MVVM.pdb
+C:\Users\KAYA\Desktop\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\bin\Debug\MVVM.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\bin\Debug\MVVM.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\bin\Debug\MVVM.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MainWindow.baml
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\Views\ProductView.baml
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\Views\ProductView.g.cs
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\App.g.cs
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MVVM.g.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MVVM.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MVVM.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MVVM\obj\Debug\MVVM.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\bin\Debug\MVVM.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\bin\Debug\MVVM.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\bin\Debug\MVVM.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MainWindow.baml
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\Views\ProductView.baml
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MainWindow.g.cs
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\Views\ProductView.g.cs
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\App.g.cs
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MVVM.g.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MVVM.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MVVM.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MVVM\obj\Debug\MVVM.pdb

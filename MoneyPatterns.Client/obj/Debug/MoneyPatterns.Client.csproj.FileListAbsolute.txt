@@ -1,0 +1,21 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\bin\Debug\MoneyPatterns.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\bin\Debug\MoneyPatterns.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\bin\Debug\MoneyPattern.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\bin\Debug\MoneyPattern.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\bin\Debug\MoneyPatterns.Client.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\bin\Debug\MoneyPatterns.Client.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\bin\Debug\MoneyPattern.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\bin\Debug\MoneyPattern.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MoneyPatterns.Client\bin\Debug\MoneyPatterns.Client.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MoneyPatterns.Client\bin\Debug\MoneyPatterns.Client.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MoneyPatterns.Client\bin\Debug\MoneyPattern.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MoneyPatterns.Client\bin\Debug\MoneyPattern.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\MoneyPatterns.Client\obj\Debug\MoneyPatterns.Client.pdb

@@ -1,0 +1,13 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\IoCContainer\IoCContainer\bin\Debug\IoCContainer.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\IoCContainer\IoCContainer\bin\Debug\IoCContainer.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\IoCContainer\IoCContainer\obj\Debug\IoCContainer.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\IoCContainer\IoCContainer\obj\Debug\IoCContainer.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 7\IoCContainer\IoCContainer\obj\Debug\IoCContainer.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IoCContainer\bin\Debug\IoCContainer.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IoCContainer\bin\Debug\IoCContainer.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IoCContainer\obj\Debug\IoCContainer.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\IoCContainer\obj\Debug\IoCContainer.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IoCContainer\bin\Debug\IoCContainer.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IoCContainer\bin\Debug\IoCContainer.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IoCContainer\obj\Debug\IoCContainer.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\IoCContainer\obj\Debug\IoCContainer.pdb

@@ -1,0 +1,19 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\bin\Debug\Plugin.XCompany.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\bin\Debug\Plugin.XCompany.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\bin\Debug\Plugin.Interfaces.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\bin\Debug\Plugin.Interfaces.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\obj\Debug\Plugin.XCompany.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\obj\Debug\Plugin.XCompany.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\obj\Debug\Plugin.XCompany.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\bin\Debug\Plugin.XCompany.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\bin\Debug\Plugin.XCompany.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\bin\Debug\Plugin.Interfaces.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\bin\Debug\Plugin.Interfaces.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\obj\Debug\Plugin.XCompany.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Plugin.XCompany\obj\Debug\Plugin.XCompany.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.XCompany\bin\Debug\Plugin.XCompany.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.XCompany\bin\Debug\Plugin.XCompany.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.XCompany\bin\Debug\Plugin.Interfaces.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.XCompany\bin\Debug\Plugin.Interfaces.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.XCompany\obj\Debug\Plugin.XCompany.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Plugin.XCompany\obj\Debug\Plugin.XCompany.pdb

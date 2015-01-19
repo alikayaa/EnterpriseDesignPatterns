@@ -1,0 +1,44 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\bin\Debug\DTO.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\bin\Debug\DTO.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\bin\Debug\DTO.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\bin\Debug\Validation.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\bin\Debug\Validation.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\obj\Debug\DTO.Form1.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\obj\Debug\DTO.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Enterprise Patterns\DTO\DTO\obj\Debug\DTO.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\DTO.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\DTO.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\DTO.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\Validation.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\Validation.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.Form1.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\DTO.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\DTO.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\DTO.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\Validation.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\bin\Debug\Validation.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.Form1.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\DTO\DTO\obj\Debug\DTO.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\bin\Debug\DTO.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\bin\Debug\DTO.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\bin\Debug\DTO.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\bin\Debug\Validation.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\bin\Debug\Validation.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\obj\Debug\DTO.Form1.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\obj\Debug\DTO.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\obj\Debug\DTO.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\DTO\DTO\obj\Debug\DTO.pdb

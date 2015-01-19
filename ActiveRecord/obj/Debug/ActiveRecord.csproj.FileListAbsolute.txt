@@ -1,0 +1,22 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\obj\Debug\ActiveRecord.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\obj\Debug\ActiveRecord.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\obj\Debug\ActiveRecord.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\obj\Debug\ActiveRecord.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\bin\Debug\ActiveRecord.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\obj\Debug\ActiveRecord.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\obj\Debug\ActiveRecord.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\ActiveRecord\obj\Debug\ActiveRecord.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ActiveRecord\bin\Debug\ActiveRecord.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ActiveRecord\bin\Debug\ActiveRecord.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ActiveRecord\bin\Debug\ActiveRecord.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ActiveRecord\obj\Debug\ActiveRecord.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ActiveRecord\obj\Debug\ActiveRecord.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\ActiveRecord\obj\Debug\ActiveRecord.pdb

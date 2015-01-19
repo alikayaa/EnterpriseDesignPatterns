@@ -1,0 +1,12 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Registry\bin\Debug\Registry.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Registry\bin\Debug\Registry.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Registry\obj\Debug\Registry.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Registry\obj\Debug\Registry.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Registry\bin\Debug\Registry.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Registry\bin\Debug\Registry.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Registry\obj\Debug\Registry.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Registry\obj\Debug\Registry.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Registry\bin\Debug\Registry.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Registry\bin\Debug\Registry.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Registry\obj\Debug\Registry.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Registry\obj\Debug\Registry.pdb

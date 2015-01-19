@@ -1,0 +1,15 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\bin\Debug\Pessimistic.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\bin\Debug\Pessimistic.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\obj\Debug\Pessimistic.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\obj\Debug\Pessimistic.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\obj\Debug\Pessimistic.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\bin\Debug\Pessimistic.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\bin\Debug\Pessimistic.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\obj\Debug\Pessimistic.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\obj\Debug\Pessimistic.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\Pessimistic\obj\Debug\Pessimistic.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Pessimistic\bin\Debug\Pessimistic.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Pessimistic\bin\Debug\Pessimistic.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Pessimistic\obj\Debug\Pessimistic.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Pessimistic\obj\Debug\Pessimistic.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\Pessimistic\obj\Debug\Pessimistic.pdb

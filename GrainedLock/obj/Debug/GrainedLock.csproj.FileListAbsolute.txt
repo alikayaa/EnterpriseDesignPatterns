@@ -1,0 +1,24 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\GrainedLock.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\GrainedLock.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\GrainedLock.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\EntityFramework.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\EntityFramework.xml
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\obj\Debug\GrainedLock.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\obj\Debug\GrainedLock.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\obj\Debug\GrainedLock.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\GrainedLock.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\GrainedLock.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\GrainedLock.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\EntityFramework.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\bin\Debug\EntityFramework.xml
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\obj\Debug\GrainedLock.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\obj\Debug\GrainedLock.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 5\Kodlar\GrainedLock\obj\Debug\GrainedLock.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\GrainedLock\bin\Debug\GrainedLock.exe.config
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\GrainedLock\bin\Debug\GrainedLock.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\GrainedLock\bin\Debug\GrainedLock.pdb
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\GrainedLock\bin\Debug\EntityFramework.dll
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\GrainedLock\bin\Debug\EntityFramework.xml
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\GrainedLock\obj\Debug\GrainedLock.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\GrainedLock\obj\Debug\GrainedLock.exe
+G:\tez ile alakalı\kodlar\Mimari Tasarım Desenleri\GrainedLock\obj\Debug\GrainedLock.pdb
